@@ -1,0 +1,8 @@
+Hello, I'm Ali Amanat Ali, a final-year Computer Sciences student at PUCIT graduating in July. 
+With a year of hands-on experience as a full-stack developer, 
+I've passionately crafted applications for clients. Last summer, 
+I further honed my skills through a MERN Stack internship at Devsinc.
+
+Beyond my technical expertise, I've held leadership roles as the President of the Media Society at my university. 
+Excelling academically and professionally, I've also served as an ambassador for Tkxel and Devsinc, 
+emphasizing my dedication to bridging the gap between academia and industry.
